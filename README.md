@@ -10,7 +10,7 @@ A mobile app built with **MIT App Inventor** that helps you keep track of what t
 - ➕ **Add**: Quickly add new items to your watchlist
 - ✏️ **Update**: Edit existing entries
 - 🗑️ **Delete**: Remove items from your list
-- 🗂️ **Type Space**: Categorize items (e.g., Movie, Series, Anime)
+
 
 ---
 
